@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+.heading{
+  color: brown;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.inspect{
+  color: cadetblue;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
